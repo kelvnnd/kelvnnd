@@ -30,7 +30,7 @@ A basic personal website created using HTML, CSS and JavaScript to showcase my p
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/kelvinnd)
+- [LinkedIn](https://www.linkedin.com/in/kelvindantas)
 - [Instagram](https://instagram.com/kelvnnd)
 
 Thanks for visiting my profile! I'm always open to connect with fellow learners and developers. Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
