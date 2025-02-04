@@ -24,6 +24,10 @@ Welcome to my GitHub profile! I'm a beginner in programming and have just starte
 ### [WEB Project Dev Links: Personal Linktree](https://github.com/kelvnnd/WEBProject_DevLinks)
 A basic personal website created using HTML, CSS and JavaScript to showcase my projects and contact info
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@Ehlir/30-nites-of-code)  
+  ![@Ehlir #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Ehlir)
+
 ## GitHub Stats
 
 ![Kelvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kelvnnd&show_icons=true&theme=radical)
