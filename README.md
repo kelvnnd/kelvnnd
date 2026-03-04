@@ -24,10 +24,6 @@ Welcome to my GitHub profile! I'm a beginner in programming and have just starte
 ### [WEB Project Dev Links: Personal Linktree](https://github.com/kelvnnd/WEBProject_DevLinks)
 A basic personal website created using HTML, CSS and JavaScript to showcase my projects and contact info
 
-## GitHub Stats
-
-![Kelvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kelvnnd&show_icons=true&theme=radical)
-
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/kelvindantas)
